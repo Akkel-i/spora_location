@@ -1,5 +1,15 @@
-#map { height: 180px; }
+#map { 
+    height: 780px;
+    border: solid black 1px;
+}
 
 .container {
     font: 5px;
+}
+
+h1 {
+    text-align: center;
+    padding: 40px;
+    margin: auto;
+    width: 50%;
 }
